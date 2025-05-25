@@ -2,7 +2,8 @@
 
 A powerful voice-enabled AI agent that helps users find the best deals on high-demand products (e.g., sneakers, concert tickets) by calling sellers, gathering real-time data, negotiating prices, and sending summaries via email.
 
-
+Link(web)::https://deal-discovery-ai-pilot.lovable.app/
+Link(Bot):https://dealfinder-ai-1748187957856.app.a0.dev/
 ---
 
 ## 🔗 Referenced Repositories
