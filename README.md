@@ -2,6 +2,8 @@
 
 A powerful voice-enabled AI agent that helps users find the best deals on high-demand products (e.g., sneakers, concert tickets) by calling sellers, gathering real-time data, negotiating prices, and sending summaries via email.
 
+![Omni AI Banner](https://via.placeholder.com/1000x300.png?text=OmniDimensional+AI+Assistant)
+
 ---
 
 ## 🔗 Referenced Repositories
@@ -13,17 +15,21 @@ A powerful voice-enabled AI agent that helps users find the best deals on high-d
 
 ## 🚀 Features
 
-- Voice-powered negotiation with sellers using OmniDimension
-- Real-time price comparison and product availability check
-- Retrieval-Augmented Generation (RAG) via OpenAI / LangChain / LlamaIndex
-- Dynamic Knowledge Updates using Pathway
-- Google Sheets logging via webhook for call and deal data
-- Email summaries sent via Gmail API or SendGrid
-- Modular FastAPI backend for seamless integration
+- 🎙️ Voice-powered negotiation with sellers using OmniDimension  
+- 🔍 Real-time price comparison and product availability check  
+- 🧠 Retrieval-Augmented Generation (RAG) via OpenAI / LangChain / LlamaIndex  
+- 🔄 Dynamic Knowledge Updates using Pathway  
+- 🧾 Google Sheets logging via webhook for call and deal data  
+- 📧 Email summaries sent via Gmail API or SendGrid  
+- 🧩 Modular FastAPI backend for seamless integration  
+
+![Feature Diagram](https://via.placeholder.com/800x400.png?text=Features+Diagram)
 
 ---
 
 ## 📁 Folder Structure
+
+
 
 OmniDimensional_AI_Agent/
 ├── main.py # FastAPI app entrypoint
