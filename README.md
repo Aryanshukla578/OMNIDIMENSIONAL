@@ -2,7 +2,8 @@
 
 A powerful voice-enabled AI agent that helps users find the best deals on high-demand products (e.g., sneakers, concert tickets) by calling sellers, gathering real-time data, negotiating prices, and sending summaries via email.
 
-![Voice Assistant Process Flowchart](assets/voice_assistant_flowchart.png)
+![Voice Assistant Flowchart](https://www.researchgate.net/profile/Dabiah-Alboaneen/publication/354176340/figure/fig1/AS:1059386982150144@1631013758846/Flowchart-of-the-voice-assistant-process.png)
+
 
 ---
 
