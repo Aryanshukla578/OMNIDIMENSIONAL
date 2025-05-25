@@ -2,7 +2,7 @@
 
 A powerful voice-enabled AI agent that helps users find the best deals on high-demand products (e.g., sneakers, concert tickets) by calling sellers, gathering real-time data, negotiating prices, and sending summaries via email.
 
-![Omni AI Banner](https://via.placeholder.com/1000x300.png?text=OmniDimensional+AI+Assistant)
+![Voice Assistant Process Flowchart](assets/voice_assistant_flowchart.png)
 
 ---
 
