@@ -2,8 +2,7 @@
 
 A powerful voice-enabled AI agent that helps users find the best deals on high-demand products (e.g., sneakers, concert tickets) by calling sellers, gathering real-time data, negotiating prices, and sending summaries via email.
 
-![Voice Assistant Flowchart](https://www.researchgate.net/profile/Dabiah-Alboaneen/publication/354176340/figure/fig1/AS:1059386982150144@1631013758846/Flowchart-of-the-voice-assistant-process.png)
-
+![Voice Assistant Flowchart](https://i.imgur.com/YOUR_FLOWCHART_IMAGE.png)
 
 ---
 
@@ -24,11 +23,13 @@ A powerful voice-enabled AI agent that helps users find the best deals on high-d
 - 📧 Email summaries sent via Gmail API or SendGrid  
 - 🧩 Modular FastAPI backend for seamless integration  
 
-![Feature Diagram](https://via.placeholder.com/800x400.png?text=Features+Diagram)
+![Feature Diagram](https://i.imgur.com/YOUR_FEATURE_IMAGE.png)
 
 ---
 
 ## 📁 Folder Structure
+
+
 
 
 
