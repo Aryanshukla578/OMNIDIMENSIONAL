@@ -1,0 +1,10 @@
+platforms:
+  - amazon
+  - flipkart
+  - nike
+  - stockx
+logging:
+  google_sheet_id: "your_google_sheet_id_here"
+email:
+  sender: "your_email@domain.com"
+  sendgrid_api_key: "your_sendgrid_key"

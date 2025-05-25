@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mood Playlist</title>
+</head>
+<body>
+    <h2>Live Mood Detection</h2>
+    <div id="emotion">Emotion: ...</div>
+    <a id="playlist" href="#" target="_blank">Playlist</a>
+
+    <script>
+        const ws = new WebSocket("ws://localhost:8000/ws");
+
+        ws.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+            document.getElementById("emotion").textContent = `Emotion: ${data.emotion}`;
+            document.getElementById("playlist").href = data.playlist_url;
+            document.getElementById("playlist").textContent = "🎵 Open Playlist";
+        };
+
+        ws.onclose = () => {
+            alert("WebSocket disconnected.");
+        };
+    </script>
+</body>
+</html>

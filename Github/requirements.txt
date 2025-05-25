@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+gspread
+oauth2client
+langchain
+pathway
+openai
+sendgrid
